@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Assignment_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\wwwroot\\js\\customer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\wwwroot\\js\\customer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\repositery\\customerinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\repositery\\customerinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\viewmodel\\customerinfovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\viewmodel\\customerinfovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\models\\customer_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\models\\customer_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\viewmodel\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\repositery\\icustomerinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\repositery\\icustomerinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\viewmodel\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\viewmodel\\responcevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\viewmodel\\responcevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\viewmodel\\listvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\viewmodel\\listvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\models\\statemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\models\\statemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\models\\districtmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\models\\districtmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\views\\error\\errordev.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\views\\error\\errordev.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\views\\error\\errorprod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\views\\error\\errorprod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|h:\\assignment_task\\assignment_task\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3720E769-CE88-4C5A-B595-AE252DB3EB43}|Assignment_Task\\Assignment_Task.csproj|solutionrelative:assignment_task\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment_Task\\Views\\Home\\Index.cshtml",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Assignment_Task\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T17:20:58.612Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\Controllers\\HomeController.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assignment_Task\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:19:14.654Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerInfoService.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Repositery\\CustomerInfoService.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\Repositery\\CustomerInfoService.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Repositery\\CustomerInfoService.cs",
+              "RelativeToolTip": "Assignment_Task\\Repositery\\CustomerInfoService.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAEwG0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:07:34.668Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICustomerInfoService.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Repositery\\ICustomerInfoService.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\Repositery\\ICustomerInfoService.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Repositery\\ICustomerInfoService.cs",
+              "RelativeToolTip": "Assignment_Task\\Repositery\\ICustomerInfoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:06:47.061Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Views\\Home\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "Assignment_Task\\Views\\Home\\NotFound.cshtml",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Views\\Home\\NotFound.cshtml",
+              "RelativeToolTip": "Assignment_Task\\Views\\Home\\NotFound.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T15:47:39.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Assignment_Task\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Assignment_Task\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T15:44:52.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\ViewModel\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\ViewModel\\RegisterVM.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\ViewModel\\RegisterVM.cs",
+              "RelativeToolTip": "Assignment_Task\\ViewModel\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:41:17.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerInfoVM.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\ViewModel\\CustomerInfoVM.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\ViewModel\\CustomerInfoVM.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\ViewModel\\CustomerInfoVM.cs",
+              "RelativeToolTip": "Assignment_Task\\ViewModel\\CustomerInfoVM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:03:51.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\Program.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Program.cs",
+              "RelativeToolTip": "Assignment_Task\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwC8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:10:21.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assignment_Task\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assignment_Task\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T09:26:04.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.js",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\Customer.js",
+              "RelativeDocumentMoniker": "Assignment_Task\\wwwroot\\js\\Customer.js",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\Customer.js",
+              "RelativeToolTip": "Assignment_Task\\wwwroot\\js\\Customer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-21T14:46:36.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\ViewModel\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\ViewModel\\LoginVM.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\ViewModel\\LoginVM.cs",
+              "RelativeToolTip": "Assignment_Task\\ViewModel\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:41:07.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Assignment_Task\\Views\\Account\\Login.cshtml",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Assignment_Task\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T06:50:48.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer_Info.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Models\\Customer_Info.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\Models\\Customer_Info.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Models\\Customer_Info.cs",
+              "RelativeToolTip": "Assignment_Task\\Models\\Customer_Info.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:37:49.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResponceVM.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\ViewModel\\ResponceVM.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\ViewModel\\ResponceVM.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\ViewModel\\ResponceVM.cs",
+              "RelativeToolTip": "Assignment_Task\\ViewModel\\ResponceVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:05:24.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\Controllers\\AccountController.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Assignment_Task\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAiwC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:47:58.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Assignment_Task\\Views\\Account\\Register.cshtml",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Assignment_Task\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T06:50:09.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StateMaster.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Models\\StateMaster.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\Models\\StateMaster.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Models\\StateMaster.cs",
+              "RelativeToolTip": "Assignment_Task\\Models\\StateMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:41:51.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DistrictMaster.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Models\\DistrictMaster.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\Models\\DistrictMaster.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Models\\DistrictMaster.cs",
+              "RelativeToolTip": "Assignment_Task\\Models\\DistrictMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:42:26.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\Models\\Gender.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Models\\Gender.cs",
+              "RelativeToolTip": "Assignment_Task\\Models\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:58:31.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListVM.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\ViewModel\\ListVM.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\ViewModel\\ListVM.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\ViewModel\\ListVM.cs",
+              "RelativeToolTip": "Assignment_Task\\ViewModel\\ListVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:02:58.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Assignment_Task\\Data\\AppDBContext.cs",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Assignment_Task\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:03:55.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignment_Task\\appsettings.json",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\appsettings.json",
+              "RelativeToolTip": "Assignment_Task\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T04:12:57.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ErrorProd.cshtml",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Views\\Error\\ErrorProd.cshtml",
+              "RelativeDocumentMoniker": "Assignment_Task\\Views\\Error\\ErrorProd.cshtml",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Views\\Error\\ErrorProd.cshtml",
+              "RelativeToolTip": "Assignment_Task\\Views\\Error\\ErrorProd.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T10:04:15.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorDev.cshtml",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Views\\Error\\ErrorDev.cshtml",
+              "RelativeDocumentMoniker": "Assignment_Task\\Views\\Error\\ErrorDev.cshtml",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Views\\Error\\ErrorDev.cshtml",
+              "RelativeToolTip": "Assignment_Task\\Views\\Error\\ErrorDev.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T10:04:51.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Assignment_Task\\appsettings.Development.json",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\appsettings.Development.json",
+              "RelativeToolTip": "Assignment_Task\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T10:15:26.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "Assignment_Task\\appsettings.Production.json",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\appsettings.Production.json",
+              "RelativeToolTip": "Assignment_Task\\appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T10:26:34.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "H:\\Assignment_Task\\Assignment_Task\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Assignment_Task\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "H:\\Assignment_Task\\Assignment_Task\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Assignment_Task\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T09:18:32.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

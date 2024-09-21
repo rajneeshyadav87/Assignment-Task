@@ -1,0 +1,87 @@
+﻿@using Assignment_Task.ViewModel
+@model CustomerInfoVM
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="">
+
+    <button id="openModalBtn" class="btn btn-success btn-sm">Add New Customer</button>
+    <!-- The Modal -->
+    <div id="customerModal" class="modal">
+        <div class="modal-content">
+            <div class=" ">
+                <h2 class="float-start">Add New Customer</h2>
+                    <span class="close float-end">&times;</span>
+            </div>
+
+            <form id="frmCustomer">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="mb-4">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="mb-4">
+                    <label asp-for="GenderId"> Gender</label>
+                    <select asp-for="GenderId" class="form-control">
+                        <option value="">-- Select Gender --</option>
+                    </select>
+                    <span asp-validation-for="GenderId" class="text-danger"></span>
+                </div>
+                <div class="mb-4">
+                    <label asp-for="StateId"> State</label>
+                    <select asp-for="StateId" class="form-control" onchange="onStateChange(this)">
+                        <option value="">-- Select State --</option>
+                    </select>
+                    <span asp-validation-for="StateId" class="text-danger"></span>
+                </div>
+                <div class="mb-4">
+                    <label asp-for="DistrictId"> District</label>
+                    <select asp-for="DistrictId" class="form-control">
+                        <option value="">-- Select District --</option>
+                    </select>
+                    <span asp-validation-for="DistrictId" class="text-danger"></span>
+                </div>
+                <div class="row">
+
+                    <div class="col-4">
+                        <input asp-for="CustomerId" type="hidden" />
+                        <input type="button" id="submitButton" value="Add Customer" class="btn btn-primary btn-sm p-1 float-end" />
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="">
+        <div class="col-sm-8">
+            <h2>
+                Customer List
+            </h2>
+        </div>
+        <table id="tblCustomer" class="table table-hover table-responsive">
+            <thead>
+                <tr>
+                    <th>Sr.No</th>
+                    <th>Name</th>
+                    <th>Gender</th>
+                    <th>State Name</th>
+                    <th>District Name</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody id="customerTableBody">
+            </tbody>
+        </table>
+    </div>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        <script src="~/js/customer.js"></script>
+    }
+}
+
+

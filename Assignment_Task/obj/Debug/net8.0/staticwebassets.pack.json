@@ -1,0 +1,1645 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Assignment_Task.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Assignment_Task.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\css\\Customer.css",
+      "PackagePath": "staticwebassets\\css\\Customer.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\Customer.js",
+      "PackagePath": "staticwebassets\\js\\Customer.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-autofill\\js\\dataTables.autoFill.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-autofill\\js\\dataTables.autoFill.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-autofill\\js\\dataTables.autoFill.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-autofill\\js\\dataTables.autoFill.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-buttons\\js\\buttons.colVis.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-buttons\\js\\buttons.colVis.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-buttons\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-buttons\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-buttons\\js\\buttons.flash.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-buttons\\js\\buttons.flash.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-buttons\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-buttons\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-buttons\\js\\buttons.html5.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-buttons\\js\\buttons.html5.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-buttons\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-buttons\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-buttons\\js\\buttons.print.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-buttons\\js\\buttons.print.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-buttons\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-buttons\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-buttons\\js\\dataTables.buttons.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-buttons\\js\\dataTables.buttons.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-keytable\\js\\dataTables.keyTable.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-keytable\\js\\dataTables.keyTable.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-keytable\\js\\dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-keytable\\js\\dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-responsive\\js\\dataTables.responsive.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-responsive\\js\\dataTables.responsive.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-responsive\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-responsive\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-scroller\\js\\dataTables.scroller.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-scroller\\js\\dataTables.scroller.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-scroller\\js\\dataTables.scroller.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-scroller\\js\\dataTables.scroller.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-select\\css\\select.bootstrap4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-select\\css\\select.bootstrap4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-select\\css\\select.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-select\\css\\select.bootstrap4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-select\\js\\dataTables.select.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-select\\js\\dataTables.select.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-select\\js\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-select\\js\\dataTables.select.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-select\\js\\select.bootstrap4.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-select\\js\\select.bootstrap4.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\datatables-select\\js\\select.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables-select\\js\\select.bootstrap4.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\additional-methods.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\additional-methods.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\additional-methods.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\jquery.validate-vsdoc.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\jquery.validate-vsdoc.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\jquery.validate.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ar.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ar.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ar.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_az.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_az.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_az.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_az.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_bg.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_bg.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_bg.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_bg.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_bn_BD.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_bn_BD.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_bn_BD.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_bn_BD.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ca.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ca.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ca.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ca.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_cs.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_cs.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_cs.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_cs.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_da.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_da.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_da.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_da.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_de.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_de.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_de.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_de.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_el.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_el.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_el.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_el.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_es.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_es.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_es.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_es.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_es_AR.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_es_AR.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_es_AR.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_es_AR.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_es_PE.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_es_PE.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_es_PE.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_es_PE.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_et.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_et.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_et.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_et.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_eu.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_eu.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_eu.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_eu.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_fa.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_fa.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_fa.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_fa.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_fi.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_fi.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_fi.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_fi.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_fr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_fr.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_fr.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_fr.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ge.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ge.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ge.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ge.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_gl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_gl.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_gl.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_gl.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_he.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_he.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_he.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_he.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_hr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_hr.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_hr.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_hr.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_hu.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_hu.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_hu.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_hu.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_hy_AM.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_hy_AM.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_hy_AM.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_hy_AM.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_id.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_id.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_id.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_id.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_is.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_is.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_is.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_is.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_it.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_it.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_it.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_it.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ja.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ja.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ja.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ja.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ka.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ka.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ka.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ka.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_kk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_kk.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_kk.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_kk.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ko.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ko.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ko.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ko.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_lt.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_lt.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_lt.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_lt.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_lv.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_lv.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_lv.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_lv.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_mk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_mk.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_mk.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_mk.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_my.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_my.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_my.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_my.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_nl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_nl.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_nl.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_nl.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_no.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_no.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_no.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_no.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_pl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_pl.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_pl.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_pl.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_pt_BR.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_pt_BR.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_pt_BR.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_pt_BR.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_pt_PT.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_pt_PT.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_pt_PT.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_pt_PT.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ro.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ro.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ro.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ro.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ru.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ru.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ru.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ru.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_sd.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_sd.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_sd.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_sd.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_si.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_si.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_si.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_si.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_sk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_sk.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_sk.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_sk.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_sl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_sl.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_sl.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_sl.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_sr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_sr.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_sr.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_sr.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_sr_lat.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_sr_lat.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_sr_lat.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_sr_lat.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_sv.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_sv.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_sv.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_sv.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_th.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_th.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_th.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_th.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_tj.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_tj.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_tj.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_tj.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_tr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_tr.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_tr.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_tr.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_uk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_uk.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_uk.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_uk.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ur.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ur.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_ur.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_ur.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_vi.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_vi.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_vi.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_vi.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_zh.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_zh.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_zh.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_zh.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_zh_TW.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_zh_TW.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\messages_zh_TW.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\messages_zh_TW.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\methods_de.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\methods_de.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\methods_de.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\methods_de.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\methods_es_CL.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\methods_es_CL.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\methods_es_CL.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\methods_es_CL.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\methods_fi.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\methods_fi.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\methods_fi.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\methods_fi.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\methods_it.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\methods_it.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\methods_it.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\methods_it.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\methods_nl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\methods_nl.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\methods_nl.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\methods_nl.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\methods_pt.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\methods_pt.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\jquery-validation\\localization\\methods_pt.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-validation\\localization\\methods_pt.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\css\\select2.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\css\\select2.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\af.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\af.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\ar.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\ar.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\az.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\az.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\bg.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\bg.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\bn.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\bn.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\bs.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\bs.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\build.txt",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\build.txt"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\ca.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\ca.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\cs.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\cs.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\da.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\da.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\de.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\de.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\dsb.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\dsb.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\el.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\el.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\en.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\en.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\es.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\es.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\et.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\et.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\eu.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\eu.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\fa.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\fa.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\fi.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\fi.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\fr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\fr.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\gl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\gl.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\he.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\he.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\hi.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\hi.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\hr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\hr.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\hsb.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\hsb.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\hu.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\hu.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\hy.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\hy.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\id.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\id.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\is.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\is.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\it.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\it.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\ja.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\ja.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\ka.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\ka.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\km.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\km.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\ko.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\ko.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\lt.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\lt.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\lv.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\lv.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\mk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\mk.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\ms.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\ms.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\nb.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\nb.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\ne.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\ne.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\nl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\nl.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\pl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\pl.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\ps.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\ps.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\pt-BR.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\pt-BR.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\pt.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\pt.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\ro.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\ro.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\ru.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\ru.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\sk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\sk.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\sl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\sl.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\sq.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\sq.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\sr-Cyrl.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\sr-Cyrl.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\sr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\sr.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\sv.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\sv.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\th.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\th.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\tk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\tk.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\tr.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\tr.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\uk.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\uk.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\vi.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\vi.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\zh-CN.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\zh-CN.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\i18n\\zh-TW.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\i18n\\zh-TW.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\select2.full.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\select2.full.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\select2.full.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\select2.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\select2.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\sweetalert2-theme-bootstrap-4\\bootstrap-4.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\sweetalert2-theme-bootstrap-4\\bootstrap-4.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\sweetalert2-theme-bootstrap-4\\bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\sweetalert2-theme-bootstrap-4\\bootstrap-4.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\sweetalert2\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\sweetalert2\\sweetalert2.all.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\sweetalert2\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\sweetalert2\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\sweetalert2\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\sweetalert2\\sweetalert2.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\sweetalert2\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\sweetalert2\\sweetalert2.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\toastr\\toastr.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\toastr\\toastr.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\toastr\\toastr.js.map",
+      "PackagePath": "staticwebassets\\js\\plugins\\toastr\\toastr.js.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\toastr\\toastr.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\toastr\\toastr.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\plugins\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\Assignment_Task\\Assignment_Task\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Assignment_Task.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Assignment_Task.props",
+      "PackagePath": "build\\Assignment_Task.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment_Task.props",
+      "PackagePath": "buildMultiTargeting\\Assignment_Task.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Assignment_Task.props",
+      "PackagePath": "buildTransitive\\Assignment_Task.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
