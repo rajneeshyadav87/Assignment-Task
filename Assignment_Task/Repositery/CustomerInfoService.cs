@@ -9,6 +9,7 @@ namespace Assignment_Task.Repositery
     {
         private readonly AppDBContext dBContext;
 
+        #region Dropdown List
         public CustomerInfoService(AppDBContext dBContext)
         {
             this.dBContext = dBContext;
@@ -40,7 +41,8 @@ namespace Assignment_Task.Repositery
                 Value = x.Id,
             }).ToListAsync();
         }
-
+        #endregion
+        #region Customer related details
         public async Task<ResponceVM> AddUpdateCustomer(CustomerInfoVM data)
         {
             if (data.CustomerId == 0)
@@ -148,6 +150,6 @@ namespace Assignment_Task.Repositery
             return await result.FirstOrDefaultAsync();
         }
     }
+    #endregion
 
-  
 }
