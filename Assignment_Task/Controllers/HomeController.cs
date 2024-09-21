@@ -188,22 +188,14 @@ namespace Assignment_Task.Controllers
         {
             if (statusCode.HasValue)
             {
+                // Handle specific status codes (like 404 Not Found)
                 if (statusCode == 404)
                 {
-                    _logger.LogWarning("404 error occurred.");
                     return View("NotFound");
                 }
             }
-            else
-            {
-                // Log the general exception
-                var exceptionHandlerPathFeature = HttpContext.Features.Get<IExceptionHandlerPathFeature>();
-                if (exceptionHandlerPathFeature != null)
-                {
-                    _logger.LogError(exceptionHandlerPathFeature.Error, "An unhandled exception occurred.");
-                }
-            }
 
+            // For general errors, display a generic error view
             return View("Error");
         }
 

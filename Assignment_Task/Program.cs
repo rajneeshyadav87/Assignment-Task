@@ -35,10 +35,8 @@ if (app.Environment.IsDevelopment())
 else
 {
     // Use generic error handler in production
-    app.UseExceptionHandler("/Home/Error");
-
-    // Optionally, serve static error pages like 404
-    app.UseStatusCodePagesWithReExecute("/Home/Error", "?statusCode={0}");
+    app.UseExceptionHandler("/Error");
+    app.UseHsts();
 }
 app.UseHttpsRedirection();
 app.UseStaticFiles();
