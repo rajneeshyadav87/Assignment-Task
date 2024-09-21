@@ -15,7 +15,7 @@ namespace Assignment_Task.Controllers
             this.signInManager = signInManager;
             this.userManager = userManager;
         }
-
+        #region Login (GET/POST)
         public IActionResult Login()
         {
 
@@ -36,6 +36,9 @@ namespace Assignment_Task.Controllers
             }
             return View(model);
         }
+        #endregion
+
+        #region Register (GET/POST)
         public IActionResult Register()
         {
 
@@ -67,13 +70,14 @@ namespace Assignment_Task.Controllers
             }
             return View(model);
         }
-
+        #endregion
+        #region Logout
         public async Task<IActionResult> Logout()
         {
             await signInManager.SignOutAsync();
             return RedirectToAction("Index", "Home");
 
         }
-
+        #endregion
     }
 }

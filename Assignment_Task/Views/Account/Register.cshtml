@@ -8,7 +8,7 @@
 <div class="row d-flex align-items-center justify-content-center">
     <div class="col-md-5 card p-3">
         <h2 class="text-center text-info">Register</h2>
-        <form asp-action="Register" method="post" asp-controller="Account">
+        <form asp-action="Register" method="post" asp-controller="Account" id="frmRegister">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="mb-4">
                 <label asp-for="Name" class="control-label"></label>
@@ -52,3 +52,19 @@
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
     }
 }
+<script>
+    $(document).ready(function () {
+        // Example of custom client-side validation for DomainNameh
+        $.validator.addMethod("customDomainValidation", function (value, element) {
+            return /^[a-zA-Z0-9_]{1,10}$/.test(value);
+        }, "Domain name must be alphanumeric and up to 10 characters long.");
+
+        $("#frmRegister").validate({
+            rules: {
+                DomainName: {
+                    customDomainValidation: true
+                }
+            }
+        });
+    });
+</script>
