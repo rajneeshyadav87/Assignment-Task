@@ -43,8 +43,6 @@ function BindGenderList() {
 
             // Clear existing options
             genderDropdown.empty();
-
-            // Add new options from the fetched data
             genderDropdown.append($('<option></option>').text('-- Select Gender --'));
             $.each(data, function (index, item) {
                 genderDropdown.append($('<option></option>').val(item.value).text(item.text));
@@ -67,8 +65,6 @@ function BindStateList() {
 
             // Clear existing options
             stateDropdown.empty();
-
-            // Add new options from the fetched data
             stateDropdown.append($('<option></option>').text('-- Select State --'));
             $.each(data, function (index, item) {
                 stateDropdown.append($('<option></option>').val(item.value).text(item.text));
@@ -93,8 +89,8 @@ function GetDistrict(_stateId) {
 
     if (_stateId != null && _stateId != "") {
         $.ajax({
-           
-            url:"Home/GetDistrictList",
+
+            url: "Home/GetDistrictList",
             data: { stateId: _stateId },
             dataType: "json",
             type: "GET",
@@ -103,7 +99,6 @@ function GetDistrict(_stateId) {
                 var districtDropdown = $('#DistrictId'); // jQuery selector
                 // Clear existing options
                 districtDropdown.empty();
-                // Add new options from the fetched data
                 districtDropdown.append($('<option></option>').text('-- Select District --'));
                 $.each(data, function (index, item) {
                     districtDropdown.append($('<option></option>').val(item.value).text(item.text));
@@ -122,8 +117,22 @@ function CheckValidation() {
     var isValid = true;
     var name = $('#Name').val();
     var regex = /^[a-zA-Z]+$/;
+    var GenderId = $('#GenderId').val();
+    var isNumericGender = /^\d+$/.test(GenderId);
 
-    if (regex.test(name) == false || name == "") {
+    var StateId = $('#StateId').val();
+    var isNumericStateId = /^\d+$/.test(StateId);
+    var DistrictId = $('#DistrictId').val();
+    var isNumericDistrictId = /^\d+$/.test(DistrictId);
+
+    if (name == "") {
+
+        $('#Name').focus();
+        Swal.fire("Warning !", "Please enter name!", "warning");
+        return false;
+    }
+    else if (regex.test(name) == false) {
+        $('#Name').focus();
         Swal.fire("Warning !", "Only alphabets are allowed!", "warning");
         return false;
     }
@@ -131,12 +140,27 @@ function CheckValidation() {
         Swal.fire("Warning !", "Please Select Gender!", "warning");
         return false;
     }
+    else if (isNumericGender == false) {
+        Swal.fire("Warning !", "Only numeric values are allowed in  Gender dropdown.", "warning");
+        $('#GenderId').focus();
+        return false;
+    }
     else if ($('#StateId').val() == "" || $('#StateId').val() == "0" || $('#StateId').val() == "-- Select State --") {
         Swal.fire("Warning !", "Please Select State!", "warning");
         return false;
     }
+    else if (isNumericStateId == false) {
+        Swal.fire("Warning !", "Only numeric values are allowed in  State dropdown.", "warning");
+        $('#StateId').focus();
+        return false;
+    }
     else if ($('#DistrictId').val() == "" || $('#DistrictId').val() == "0" || $('#DistrictId').val() == "-- Select District --") {
         Swal.fire("Warning !", "Please Select District!", "warning");
+        return false;
+    }
+    else if (isNumericDistrictId == false) {
+        Swal.fire("Warning !", "Only numeric values are allowed in  District dropdown.", "warning");
+        $('#DistrictId').focus();
         return false;
     }
     return isValid;
