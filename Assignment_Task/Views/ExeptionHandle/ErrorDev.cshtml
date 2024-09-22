@@ -1,0 +1,56 @@
+﻿   @using Assignment_Task.Models;
+    @model ErrorViewModel
+@{
+    Layout = null; // This disables the layout
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Development Error - Detailed Information</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #721c24;
+            margin: 20px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: #721c24;
+        }
+
+        .error-details {
+         
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+
+        pre {
+            background-color: #ffeeba;
+            padding: 15px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>An Error Occurred in Development</h1>
+    <p>Here are the error details to help you debug the issue:</p>
+
+    <div class="error-details">
+        <strong>Exception Message:</strong>
+        <p>@Model.Massage</p>
+
+        <strong>Stack Trace:</strong>
+        <pre>
+            @Model.stackTrace
+        </pre>
+    </div>
+
+    <p><a href="/">Go back to the homepage</a></p>
+</body>
+</html>

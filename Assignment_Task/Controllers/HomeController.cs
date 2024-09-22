@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Assignment_Task.Controllers
 {
@@ -24,7 +25,6 @@ namespace Assignment_Task.Controllers
         #region Customer (Get, Add, Update, Delete)
         public IActionResult Index()
         {
-
             return View();
         }
 
@@ -92,7 +92,6 @@ namespace Assignment_Task.Controllers
             }
             catch (Exception)
             {
-
                 throw;
             }
             return Json(res);

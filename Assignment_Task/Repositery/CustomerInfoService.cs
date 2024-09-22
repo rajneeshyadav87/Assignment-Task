@@ -42,6 +42,7 @@ namespace Assignment_Task.Repositery
             }).ToListAsync();
         }
         #endregion
+
         #region Customer related details
         public async Task<ResponceVM> AddUpdateCustomer(CustomerInfoVM data)
         {

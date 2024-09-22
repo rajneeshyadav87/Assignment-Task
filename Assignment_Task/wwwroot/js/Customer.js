@@ -116,7 +116,7 @@ function GetDistrict(_stateId) {
 function CheckValidation() {
     var isValid = true;
     var name = $('#Name').val();
-    var regex = /^[a-zA-Z]+$/;
+    var regex = /^[a-zA-Z]+$/; 
     var GenderId = $('#GenderId').val();
     var isNumericGender = /^\d+$/.test(GenderId);
 
@@ -131,7 +131,7 @@ function CheckValidation() {
         Swal.fire("Warning !", "Please enter name!", "warning");
         return false;
     }
-    else if (regex.test(name) == false) {
+    else if (!regex.test(name)) {
         $('#Name').focus();
         Swal.fire("Warning !", "Only alphabets are allowed!", "warning");
         return false;
